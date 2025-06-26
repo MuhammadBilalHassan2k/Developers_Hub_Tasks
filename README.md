@@ -1,7 +1,7 @@
 # Developers Hub Tasks
 
 # Task Objective
-This repository aggregates a series of data science and machine learning assignments from the Developers Hub. Each task focuses on applying different models and analyses—such as classification, regression, and visualizations using real-world datasets to reinforce understanding of data handling, model selection, and performance evaluation.
+This repository aggregates a series of data science and machine learning assignments from the Developers Hub. Each task focuses on applying different models and analyses such as classification, regression, and visualizations using real-world datasets to reinforce understanding of data handling, model selection, and performance evaluation.
 
 # Dataset Used
 > Varies by task: includes classic publicly available datasets such as:
